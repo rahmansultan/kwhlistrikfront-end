@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.tigak{
+    font-size: 20px;
+    line-height: 15px !important;
+    padding-left: 10px;
+    font-weight: bold;
+    font-family: 'Pangolin', cursive;
+}
+
+.tigak:nth-child(2){
+    font-size: 14px;
+    font-family: 'Pangolin', cursive;
+}
+
+
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
